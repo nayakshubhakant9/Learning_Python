@@ -1,3 +1,4 @@
+# Write a program to print Twinkle twinkle little star poem in python
 print('''
       Twinkle, twinkle, little star,
 How I wonder what you are!
@@ -22,5 +23,4 @@ Till the sun is in the sky.
 'Tis your bright and tiny spark,
 Lights the trav'ller in the dark:
 Tho' I know not what you are,
-Twinkle, twinkle, little star.
-      ''')
+Twinkle, twinkle, little star. ''')
